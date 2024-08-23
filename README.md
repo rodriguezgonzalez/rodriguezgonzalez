@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Rodriguez</h1>
+<h3 align="center">A passionate developer from MTL</h3>
 <p><em>Software engineer at <a href="https://uqam.ca/">Université du Québec à Montréal </a>
 </em></p>
-<h3 align="center">A passionate developer from MTL</h3>
 <p><em>Technical specialist at <a href="https://www.apple.com/ca/fr/retail/carrefourlaval/">Apple
   
 - 🌱 I’m currently learning **advanced Swift techniques and Java 2D games**
