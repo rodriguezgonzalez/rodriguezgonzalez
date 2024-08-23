@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Rodriguez</h1>
 <h3 align="center">A passionate developer from MTL</h3>
-
+<p><em>Technical specialist at <a href="https://www.apple.com/ca/fr/retail/carrefourlaval/">Apple
 - 🌱 I’m currently learning **advanced Swift techniques and Java 2D games**
 
 - 📫 How to reach me **r.gustavo1495@gmail.com**
