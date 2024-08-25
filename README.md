@@ -10,10 +10,9 @@
 - :dart: I'm currently working on my pet projects.
 - :video_game: I love 2D Games.
 - :coffee: I'm coffeer.
-- 📫 How to reach me **r.gustavo1495@gmail.com**
 
 [![Linkedin: rafaelrodriguez](https://img.shields.io/badge/-rafaelrodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-14/)](https://www.linkedin.com/in/rafael-14/)
-
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 **rodriguezgonzalez/rodriguezgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
