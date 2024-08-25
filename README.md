@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rafael Rodriguez</h1>
+<h1 align="center">Hi 👋, I'm Rafa Rodriguez</h1>
 <h3 align="center">A passionate developer from MTL</h3>
 <p><em>Software engineer at <a href="https://uqam.ca/">Université du Québec à Montréal </a>
 </em></p>
-<p><em>Technical specialist at <a href="https://www.apple.com/ca/fr/retail/carrefourlaval/">Apple
+
   
 - 🌱 I’m currently learning **advanced Swift techniques and Java 2D games**
-
+- :house: I'm currently living in Montréal, Canada 🇨🇦.
+- :computer: I'm currently working as a<p><em>Technical specialist at <a href="https://www.apple.com/ca/fr/retail/carrefourlaval/">Apple
+- :dart: I'm currently working on my pet projects.
+- :video_game: I love 2D Games.
+- :coffee: I'm coffeer.
 - 📫 How to reach me **r.gustavo1495@gmail.com**
 
 [![Linkedin: rafaelrodriguez](https://img.shields.io/badge/-rafaelrodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-14/)](https://www.linkedin.com/in/rafael-14/)
