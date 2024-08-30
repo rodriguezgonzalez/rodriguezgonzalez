@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **advanced Swift techniques and Java 2D games**
 - :house: I'm currently living in Montréal, Canada 🇨🇦.
 - :computer: I'm currently working as a Technical specialist at <a href="https://www.apple.com/ca/fr/retail/carrefourlaval/">Apple
-- :dart: I'm currently working on my pet projects.
 - :video_game: I love 2D Games.
 - :coffee: I'm coffeer.
 
